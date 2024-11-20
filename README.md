@@ -18,5 +18,8 @@ Chella-Tweaks is designed to enhance the performance of devices running the MTK 
 ## Recommended Modules  
 - **BUSYBOX** or **BRUTAL BUSYBOX** for best results. 
 
+## Channel
+**Join Chella's Telegram Channel:** [Chella Projects](https://t.me/chellaprojects)
+
 ## License  
 GPL v3 License  
