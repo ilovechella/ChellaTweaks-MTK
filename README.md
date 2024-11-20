@@ -1,6 +1,4 @@
 # Chella-Tweaks (MTK)  
-By: @ilovechella 
-
 ## Description  
 Chella-Tweaks is designed to enhance the performance of devices running the MTK chipset. With various optimizations for CPU, GPU, RAM, and network performance, this module provides switchable modes for different use cases, including gaming, power-saving, and balanced performance.
 
@@ -17,8 +15,8 @@ Chella-Tweaks is designed to enhance the performance of devices running the MTK 
 3. Flash the ZIP file using your root manager.  
 4. Reboot your device to apply the changes.  
 
-## Recommended Tools  
+## Recommended Modules  
 - **BUSYBOX** or **BRUTAL BUSYBOX** for best results. 
 
 ## License  
-GNU v3 License  
+GPL v3 License  
