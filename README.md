@@ -1,6 +1,6 @@
 # Chella-Tweaks (MTK)  
 ## Description  
-Chella-Tweaks is designed to enhance the performance of devices running the MTK chipset. With various optimizations for CPU, GPU, RAM, and network performance, this module provides switchable modes for different use cases, including gaming, power-saving, and balanced performance.
+Chella-Tweaks has different MTK variations, designed to enhance the performance of devices running the MTK chipset. With various optimizations for CPU, GPU, RAM, and network performance, this module provides switchable modes for different use cases, including gaming, power-saving, and balanced performance.
 
 ## Features  
 - **Switchable Modes**  
