@@ -3,11 +3,11 @@
 Chella-Tweaks has a lot of MTK variations, designed to enhance the performance of devices running the MTK chipset. With various optimizations for CPU, GPU, RAM, and network performance, this module provides switchable modes for different use cases, including gaming, power-saving, and balanced performance.
 
 ## Features  
-- **Switchable Modes**  
+- **Modes**
+    - **Auto**: It picks in the 3 modes what it must use based on your activity
     - **Battery**: Power-saving mode for longer battery life  
-    - **Balance**: Default stock mode for balanced performance  
-    - **Performance**: Enhanced performance for general use  
-    - **Extreme**: Optimized for gaming, offering the best performance    
+    - **Balance**: Default stock mode for balanced performance
+    - **Performance**: Optimized for gaming, offering the best performance    
 
 ## Installation  
 1. Ensure your device is rooted.
